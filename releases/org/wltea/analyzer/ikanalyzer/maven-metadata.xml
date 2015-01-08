@@ -5,9 +5,8 @@
   <versioning>
     <release>5.0.2-mdh</release>
     <versions>
-      <version>5.0.2-SNAPSHOT</version>
       <version>5.0.2-mdh</version>
     </versions>
-    <lastUpdated>20150108075522</lastUpdated>
+    <lastUpdated>20150108075537</lastUpdated>
   </versioning>
 </metadata>
